@@ -6,7 +6,7 @@ Naše webová aplikace bude vytvořena za pomocí knihovny React a propojená s 
 
 ## 🧭 Záverečný projekt
 
-Závěrečný projekt intenzivního kurzu [React Academy](https://reactgirls.com/akademie) od komunity React Girls.
+Závěrečný projekt intenzivního kurzu [React akademie](https://reactgirls.com/akademie) od komunity React Girls.
 
 ---
 

@@ -55,11 +55,12 @@
   }
 
   @media (min-width: 768px) {
-    .container {
+
+    .textArea {
       @apply max-w-[40rem];
     }
 
-    .textArea {
+    .apiKeyInput {
       @apply max-w-[40rem];
     }
 

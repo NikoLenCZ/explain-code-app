@@ -1,6 +1,6 @@
-# OpenAI React aplikace - Explain code
+# OpenAI React aplikace - Explain my code
 
-Naše webová aplikace bude vytvořena za pomocí knihovny React a propojená s OpenAI API. Bude mít textový input, do kterého budeme vkládat kód a s využitím OpenAI dostaneme vysvětlení toho, co kód dělá. Zároveň si vyzkoušíme vše od vytvoření nové react aplikace, přes tvorbu komponent, využití hooku useState a useEffect a připojení API k aplikaci.
+Webová aplikace je vytvořena za pomocí knihovny React a propojená s OpenAI API. Má textový input, do kterého se vkládá kód a s využitím OpenAI dostaneme vysvětlení toho, co kód dělá a input pro vložení vlastního API klíče.
 
 ---
 
@@ -28,11 +28,13 @@ Závěrečný projekt intenzivního kurzu [React Academy](https://reactgirls.com
 
 ## 🛠️ Co jsem si vyzkoušela:
 
-- Vytvořit komponentu a použít ji ve své aplikaci
+- vytvoření nové react aplikace přes Víte
+- tvorbu komponent a jejich použití v aplikaci
 - použít props
-- useState
-- useEffect
+- využití hooku useState
+- využití hooku useEffect
 - napojení na OpenAI API
+- deploy Vite react aplikace
 
 ---
 

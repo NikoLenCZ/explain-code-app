@@ -1,12 +1,9 @@
-# OpenAI React aplikace - Explain my code
+## 🧭  OpenAI React aplikace Explain my code - Závěrečný projekt
 
-Webová aplikace je vytvořena za pomocí knihovny React a propojená s OpenAI API. Má textový input, do kterého se vkládá kód a s využitím OpenAI dostaneme vysvětlení toho, co kód dělá a input pro vložení vlastního API klíče.
-
----
-
-## 🧭 Záverečný projekt
-
-Závěrečný projekt intenzivního kurzu [React Academy](https://reactgirls.com/akademie) od komunity React Girls.
+Webová aplikace je vytvořena za pomocí knihovny React a propojená s OpenAI API.
+Má textové pole, do kterého se vkládá kód a s využitím OpenAI dostaneme vysvětlení toho, co kód dělá.
+Pod ním je input pro vložení vlastního API klíče, nutný pro request - bez něj výsledek nedostanete.
+Projekt intenzivního kurzu [React akademie](https://reactgirls.com/akademie) od komunity React Girls.
 
 ---
 

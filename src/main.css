@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    @apply box-border antialiased bg-indigo-950 text-slate-50;
+  }
+
+  #root {
+    @apply grid h-screen place-items-center;
+  }
+
+  h1 {
+    @apply my-10 text-4xl font-bold text-center;
+  }
+
+  ul {
+    @apply mb-5 list-disc;
+  }
+}
+
+@layer components {
+  .container {
+    @apply w-full max-w-[40rem] px-3 flex flex-col items-center;
+  }
+
+  .textArea {
+    @apply min-h-[15rem] w-full p-4 bg-indigo-800 border-2 border-indigo-700 rounded;
+  }
+
+  .textArea:focus,
+  .apiKeyInput:focus {
+    @apply border-transparent ring-1 ring-violet-800 outline-violet-800;
+  }
+
+  .apiKeyInput {
+    @apply w-full px-2 my-5 bg-indigo-800 border-2 border-indigo-700 rounded
+  }
+
+  .text {
+    @apply pb-7 w-[43rem];
+  }
+
+  .submitButton {
+    @apply px-5 py-2 my-8 border rounded shadow-md bg-violet-700 shadow-violet-400/30;
+  }
+
+  .submitButton:hover {
+    @apply shadow-lg bg-violet-600 shadow-violet-400/40;
+  }
+
+  .submitButton:disabled {
+    @apply text-black shadow-none cursor-not-allowed bg-slate-400;
+  }
+}

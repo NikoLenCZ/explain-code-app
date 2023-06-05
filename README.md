@@ -40,15 +40,14 @@ Projekt intenzivního kurzu [React akademie](https://reactgirls.com/akademie) od
 
 Výchozí stav:
 
-![app](https://github.com/NikoLenCZ/explain-code-app/assets/55710950/7118f6fe-acc4-4cd7-8076-484eed7fffb6)
 
+![app](https://github.com/NikoLenCZ/explain-code-app/assets/55710950/670d1be3-6f7a-4309-ab0b-67c44841c781)
 
 
 po zadání requestu a vlastního API key:
 
-![app_response](https://github.com/NikoLenCZ/explain-code-app/assets/55710950/605ab382-fb0a-4b3f-b1c6-302e9c1acb9d)
 
-
+![app_response](https://github.com/NikoLenCZ/explain-code-app/assets/55710950/30ecc4ea-9cbc-49e6-8a1c-6a6d3c48d129)
 
 ---
 
